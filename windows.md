@@ -1,3 +1,5 @@
+# Maintain Efficient Process Utilization on Windows
+
 # Terminating a specific process
 
 On Windows, you can view running processes in the Task Viewer, or use Windows PowerShell (this is what you'll be using for this lab). For these operations, you'll need to be running a Windows PowerShell terminal in <em>Administrative</em> mode. So, search the Start Menu for Windows PowerShell, right-click it, and select <b>"Run as Administrator"</b>.
