@@ -1,5 +1,8 @@
 # Maintain Efficient Process Utilization on Linux
 
+
+# Terminating a specific process
+
 Terminating a specific process
 The ps -aux command allows you to list all currently running processes on a Linux machine. However, the list of processes is often super long, which makes finding a specific process pretty tough. To filter the processes you're interested in, you can pipe the output of ps through grep.
 
